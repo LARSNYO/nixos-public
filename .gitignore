@@ -1,0 +1,4 @@
+configuration.nix
+hardware-configuration.nix
+*.lock
+# home-manager/packages/dev/git.nix
