@@ -1,4 +1,4 @@
-# nixos-config for public
+# nixos-config
 
 
 
