@@ -31,5 +31,6 @@
                1              00 00              1               
                                1 1                               
                                 1                                
-
+My nixos configuration using flake
+Is in development
 
